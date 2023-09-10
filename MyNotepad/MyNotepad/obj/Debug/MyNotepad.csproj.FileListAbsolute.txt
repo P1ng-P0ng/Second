@@ -1,0 +1,10 @@
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.AssemblyReference.cache
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+F:\Программирование 3 курс\Second\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
